@@ -7,7 +7,7 @@
 <img  src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
 </i>
-<div>
+</div>
  .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
@@ -26,14 +26,14 @@ My goal is to solve real life problems using technology and create an impact ✨
  ## Connect with me 
 
 
-
+<div>
 <a href="https://www.linkedin.com/in/mohd--sabir/" target="blank" >
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="90"/> 
  </a>
    <a href="mailto:sabiransari01981@gmail.com"> 
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="70"/>
   </a>
-
+</div>
 
   
  <br>
