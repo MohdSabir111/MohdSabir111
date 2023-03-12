@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 #### 
-<img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
+<img  src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
  .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
@@ -60,5 +61,4 @@ My goal is to solve real life problems using technology and create an impact ✨
  
 - IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  
     [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
