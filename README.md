@@ -2,7 +2,11 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 #### 
-<i style="display:inline-block; right: 500px;">
+<i style="
+    display: inline-block;
+    position: relative;
+    left: 300px;
+">
 <img  src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
 </i>
