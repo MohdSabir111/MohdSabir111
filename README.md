@@ -2,8 +2,11 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 #### 
+<i>
 <img  src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
+</i>
+
  .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
