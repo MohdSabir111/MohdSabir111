@@ -6,6 +6,7 @@
 <i>
 <img  src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
+ <img  src="https://img.shields.io/badge/-NodeJs%20Developer-yellow?&style=for-the-badge"/>  
 </i>
 </div>
  .                                           
