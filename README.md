@@ -16,7 +16,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 <!-- - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1Ap5Q8cvr6VZBrL8mVhvpyBRtvA8JRref/view) -->
 
-- 📫 **How to reach me** [Mail](mailto:sabiransari01981@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mohd--sabir/)
+- 📫 **How to reach me** [Mail](mailto:sabiransari01981@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mohdsabir111/)
 
 - 🌱 I’m currently learning & practicing **Data Structure & Algorithms**
 
@@ -28,7 +28,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 
 
-<a href="https://www.linkedin.com/in/mohd--sabir/" target="blank" >
+<a href="https://www.linkedin.com/in/mohdsabir111/" target="blank" >
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="90"/> 
  </a>
    <a href="mailto:sabiransari01981@gmail.com"> 
