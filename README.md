@@ -14,7 +14,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 🔷 **I have compeleted MCA from A.K.T.U University , currently I am working on NodeJs , and I am actively looking full-time Software Developer (Back-end) .**
 
-<!-- - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1Ap5Q8cvr6VZBrL8mVhvpyBRtvA8JRref/view) -->
+- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1-0xoJ6NFv_6MbVlEH7lVRCWEA6-fsbtb/view?usp=drivesdk) 
 
 - 📫 **How to reach me** [Mail](mailto:sabiransari01981@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mohdsabir111/)
 
