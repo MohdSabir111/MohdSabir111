@@ -6,13 +6,13 @@
 <i>
 <img  src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
- <img  src="https://img.shields.io/badge/-NodeJs%20Developer-yellow?&style=for-the-badge"/>  
+ <img  src="https://img.shields.io/badge/Frontend%20Developer-yellow?&style=for-the-badge"/>  
 </i>
 </div>
  .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
-- 🔷 **I have compeleted MCA from A.K.T.U University , currently I am working on NodeJs , and I am actively looking for full-time Software Developer (Back-end).**
+- 🔷 **I have compeleted MCA from A.K.T.U University , currently I am working on NodeJs , and I am actively looking for full-time Software Developer .**
 
 - 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1-riP_HwVo_b2Vb4hXEcpe4hN91NQXSQZ/view?usp=drivesdk) 
 
