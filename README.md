@@ -1,70 +1,62 @@
-<h2 align="center"> Hi 👋, I'm Mohd Sabir </h2>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohd Sabir</h1>
+<h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
 
-#### 
-<div align="center">
-<i>
-<img  src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/-Backend Developer-green?&style=for-the-badge"/>
- <img  src="https://img.shields.io/badge/Frontend%20Developer-yellow?&style=for-the-badge"/>  
-</i>
-</div>
- .                                           
-My goal is to solve real life problems using technology and create an impact ✨.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Backend+Developer+%7C+Node.js;MERN+Stack+Enthusiast+%F0%9F%92%BB;Learning+and+Building+Everyday+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-- 🔷 **I have compeleted MCA from A.K.T.U University , currently I am working on NodeJs , and I am actively looking for full-time Software Developer .**
+---
 
-- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1-riP_HwVo_b2Vb4hXEcpe4hN91NQXSQZ/view?usp=drivesdk) 
+### 🧑‍💻 About Me:
+- 🔭 I’m currently working as a **Node.js Developer**
+- 🧠 I’m learning **React, SQL, and Cloud Deployments**
+- 💬 Ask me about **Node.js, MySQL, Express, API design**
+- 📫 Reach me at: [mohdsabir.work@gmail.com](mailto:mohdsabir.work@gmail.com)
+- 🧳 Looking for opportunities in **UAE | Remote | India**
 
-- 📫 **How to reach me** [Mail](mailto:sabiransari01981@gmail.com) , [LinkedIn](https://www.linkedin.com/in/mohdsabir111/)
+---
 
-- 🌱 I’m currently learning & practicing **Data Structure & Algorithms**
+### 🚀 Tech Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
+---
 
+### 📊 GitHub Stats & Streak
 
- 
- ## Connect with me 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdsabir&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsabir&theme=tokyonight" width="49%" />
+</p>
 
+---
 
+### 📈 Most Used Languages
 
-<a href="https://www.linkedin.com/in/mohdsabir111/" target="blank" >
-<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="90"/> 
- </a>
-   <a href="mailto:sabiransari01981@gmail.com"> 
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30" width="70"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsabir&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Connect With Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohdsabir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:mohdsabir.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-  
- <br>
- <br>
-
-
- 
- 
- <h2> &nbsp;My Tech Stack</h2>
-
-- Programming languages : <br />
-    [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-    [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-    
-
-    
-- Frontend : <br />
-    [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
-    [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
-    [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-    
-- Backend : <br />
-    [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-    [![ExpressJS](https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js&logoColor=white)](https://expressjs.org)
- 
-  
-- Databases :  <br />
-    [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-    [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
- 
-- IDE & Tools : <br />
-    [![VS Code](http://img.shields.io/badge/-VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-    [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+<p align="center">❤️ Made with dedication by Mohd Sabir ❤️</p>
