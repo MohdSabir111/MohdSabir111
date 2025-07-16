@@ -32,7 +32,7 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohdSabir111&show_icons=true&theme=tokyonight" width="49%" />
+ 
   <img src="https://streak-stats.demolab.com?user=MohdSabir111&theme=tokyonight" width="49%" />
 </p>
 
@@ -40,13 +40,13 @@
 
 ### 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohdSabir111&layout=compact&theme=tokyonight" />
-</p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdSabir111&layout=donut)](https://github.com/MohdSabir111)
 
 ---
+
+
+
 
 ### 📬 Connect With Me:
 
