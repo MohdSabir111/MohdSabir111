@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdsabir&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=mohdsabir&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohdSabir111&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=MohdSabir111&theme=tokyonight" width="49%" />
 </p>
 
 ---
@@ -41,8 +41,9 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsabir&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohdSabir111&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 ---
