@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdsabir&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsabir&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdsabir&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=mohdsabir&theme=tokyonight" width="49%" />
 </p>
 
 ---
@@ -43,6 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsabir&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
